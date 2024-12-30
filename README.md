@@ -18,6 +18,8 @@ Sound Effects & GUI: Built with pygame and playsound.
 
 Multiplayer (WIP): Play with friends using sockets.
 
+User Stats : Sql for storing the user stats
+
 # Future Enhancements
 
 Multiplayer mode
@@ -25,3 +27,4 @@ Multiplayer mode
 AI with reinforcement learning
 
 Enhanced graphics and leaderboards
+
